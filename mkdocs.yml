@@ -4,6 +4,7 @@ theme: "material"
 
 plugins:
   - mkdocstrings
+  - search
 
 nav:
   - Home: index.md
